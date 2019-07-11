@@ -1,0 +1,2 @@
+# dailyfrush
+django网站
